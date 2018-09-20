@@ -1,0 +1,15 @@
+{
+  "name": "tinify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tinify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imageinfo": "^1.0.4",
+    "tinify": "^1.5.0"
+  }
+}
